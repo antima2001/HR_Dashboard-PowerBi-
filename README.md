@@ -7,7 +7,7 @@ Calculating Total Employee present in an organization
 Calculating Total Male present in an organization
 Calculating Total Female present in an organization
 After calculating total male and female, convert them into %
-Claculate YearSincelastPromotion :- 1. Finding the people whoever had never been promoted since last 10 years and above is now due for promotion
+Calculate YearSincelastPromotion :- 1. Finding the people whoever had never been promoted since last 10 years and above is now due for promotion
 2. Calculate how many people are due for promotion and no promotion
 3. Calculate % of promotion and no promotion employee in an organization
 Calcualte how many years the employee's have worked as well as Job level
